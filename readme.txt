@@ -1,4 +1,4 @@
-![geohash][https://github.com/YOOHYUNJUNE/administrative-district_oneroom_mark/blob/master/geohash_seoul.jpg]
+![geohash](https://github.com/YOOHYUNJUNE/administrative-district_oneroom_mark/blob/master/geohash_seoul.jpg)
 
 ### 본 코드는 코딩 교육과정에서 소규모 프로젝트 중 만든 코드이며 "크롤링", "판다스", "행정구역"연습 용도로만 사용되었습니다.
 ### 크롤링된 데이터에 대한 저작권은 직방에게 있습니다.
