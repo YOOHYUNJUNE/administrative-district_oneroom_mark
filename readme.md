@@ -1,6 +1,4 @@
-![sample]()
-
-
+![sample](https://github.com/YOOHYUNJUNE/administrative-district_oneroom_mark/blob/master/sample.jpg)
 
 ## 본 코드는 코딩 교육과정에서 소규모 프로젝트 중 만든 코드이며 "크롤링", "판다스", "행정구역"연습 용도로만 사용되었습니다.
 ## 크롤링된 데이터에 대한 저작권은 직방에게 있습니다.
@@ -21,6 +19,7 @@
 2. 대학교 검색시, 대학교 반경 거리가 아닌 "동일" 행정구 내 원룸만 검색
 
 ## GEOhash에 대해서
+![geohash](https://github.com/YOOHYUNJUNE/administrative-district_oneroom_mark/blob/master/geohash_seoul.jpg)
 - 직방은 "geohash"라는 좌표를 이용합니다.
 - 원룸매물의 개발자 도구를 크롤링했습니다.
 - 서울의 경우 "wjdq", 'Wjdj", "wjdm"으로 지정했습니다.
